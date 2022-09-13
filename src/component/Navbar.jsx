@@ -172,6 +172,7 @@ function Navbar() {
             // debounce(sendCity, 1000);
           }}
         />
+        
         <button className="searchIcon" onClick={sendCity}>
           <SearchOutlinedIcon fontSize="medium" />
         </button>
